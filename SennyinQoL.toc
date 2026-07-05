@@ -1,0 +1,23 @@
+## Interface: 120000, 120001
+## Title: SennyinQoL
+## Notes: Small, lightweight tweaks to default UI.
+## Author: Sennyin
+## SavedVariables: SennyinDB
+## Version: 0.2
+
+core/Database.lua
+core/Init.lua
+core/Globals.lua
+core/Utils.lua
+
+modules/general/ui_scale.lua
+modules/unitframes/classHealthBarColours.lua
+modules/commands/slashCommands.lua
+modules/cooldowns/centerCooldowns.lua
+modules/personalresource/personalResource.lua
+modules/nameplates/nameplates.lua
+modules/powerbar/powerbar.lua
+modules/classBuffBars/buffBars.lua
+modules/tooltips/tooltips.lua
+
+core/SettingsUI.lua
