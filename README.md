@@ -1,5 +1,9 @@
 # SennyinQoL
 
+## Important
+
+This addon is in super early development. If there is something before alpha, then that's what it currently is. I'm also only just learning Lua, so if you know Lua well, and see any optimisations, feel free to contribute.
+
 ## Overview
 SennyinQoL is a lightweight World of Warcraft UI addon that provides user interface enhancements.
 
