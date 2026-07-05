@@ -1,4 +1,4 @@
-# !!SennyinQoL
+# SennyinQoL
 
 ## Overview
 SennyinQoL is a lightweight World of Warcraft UI addon that provides user interface enhancements.
